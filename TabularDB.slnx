@@ -1,5 +1,14 @@
 <Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/TabularDB.Core/TabularDB.Core.csproj" />
+  </Folder>
   <Folder Name="/Desktop/">
     <Project Path="Desktop/TabularDB.Desktop/TabularDB.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/Server/">
+    <Project Path="Server/TabularDB.Server/TabularDB.Server.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/TabularDB.Core.Tests/TabularDB.Core.Tests.csproj" />
   </Folder>
 </Solution>

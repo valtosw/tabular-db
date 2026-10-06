@@ -3,6 +3,9 @@
 
 .appdata/
 .dotnet-cli/
+node_modules/
+dist/
+.env.local
 
 # User-specific files
 *.rsuser
